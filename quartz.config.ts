@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "https://fabian-zimmer.github.io/Wisdom-Vault",
+    baseUrl: "fabian-zimmer.github.io/Wisdom-Vault",
     ignorePatterns: [
       "Bases & Canvas",
       "Daily Notes & Journals",
