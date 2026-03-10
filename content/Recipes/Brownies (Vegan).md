@@ -34,7 +34,7 @@ Cover:
 
 ## Instructions
 
-1. Mix flax seed powder (1 tbsp) with warm water (2.5 tbsp) and set aside.
+1. Mix the flax seed powder (1 tbsp) with warm water (2.5 tbsp) and set aside.
 2. Heat water (60ml) and sugar (70g) in a pan until sugar is fully melted. Do not bring to a boil.
 3. Preheat oven to 175°C.
 4. In a bowl, mix flour (100g), dutched cocoa powder (30g), espresso powder (1/8 tsp), and salt (1/4 tsp).
