@@ -2,7 +2,9 @@
 Kind:
   - Recipe
 Complexity:
+  - Basic
 Exertion:
+  - Medium
 tags:
   - Main
   - Vegan
@@ -44,12 +46,13 @@ Cover:
 
 ## Instructions
 
-1. First fry tofu slabs on both sides, then set aside in bowl to cool. Meanwhile cut and prep vegetable ingredients.
-2. In a wok, heat sunflower oil and shortly sauté white parts of spring onions, garlic, ginger, and green chilli.
-3. Add broccoli, red bell peppers, and thick white parts of Napa cabbage to the wok and cook well. 
-4. Only towards end add remaining Napa cabbage leafs, chopped green parts of spring onions, and (Thai) basil leaves if you have, together with a dash of salt.
-5. In a separate small pan, fry mushrooms without salt or oil until brown on sides.
-6. Cook Udon noodles according to package instructions. Reserve some cooking water and set aside.
-7. Cut fried tofu slabs into strips, then add to wok.
-8. Mix all sauce ingredients together in a bowl, then add to wok when all is done cooking, together with sesame seeds. Mix and sizzle for a while.
-9. Add the cooked Udon noodles and reserved cooking water to achieve desired consistency.
+1. First fry tofu slabs on both sides, then set aside in bowl to cool.
+2. In a separate small pan, fry mushrooms without salt or oil until brown on sides.
+3. Meanwhile cut and prep vegetable ingredients.
+4. In a wok, heat sunflower oil and shortly sauté white parts of spring onions, garlic, ginger, and green chilli.
+5. Add broccoli, red bell peppers, and thick white parts of Napa cabbage to the wok and cook well.
+6. Only towards end add remaining Napa cabbage leafs, chopped green parts of spring onions, and (Thai) basil leaves if you have, together with a dash of salt.
+7. Cook Udon noodles according to package instructions. Reserve some cooking water and set aside.
+8. Cut fried tofu slabs into strips, then add to wok.
+9. Mix all sauce ingredients together in a bowl, then add to wok when all is done cooking, together with sesame seeds. Mix and sizzle for a while.
+10. Add the cooked Udon noodles and reserved cooking water to achieve desired consistency.

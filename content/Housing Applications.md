@@ -48,7 +48,7 @@ Sahaja & Fabian
 
 Hi everyone :)  
 As times are tough for early-careers like us to find housing, I'm posting here in hope some of you can help.
-My wife (27) and I (30) are looking for an unfurnished apartment (ideally 2-bedroom) to rent long-term in the 1900€-2100€ base rent range (i.e. excl. services, etc.) in Amsterdam. She's fully employed, while I'm in a career transition since my recent physics PhD graduation from the University of Amsterdam, having ~2x-2.5x income/rent ratio and EU guarantor with ~3-3.5x if necessary. We can move in anytime within the next 5 months.
+My wife (27) and I (30) are looking for an unfurnished apartment (ideally 2-bedroom) to rent long-term in the 1900€-2100€ base rent range (i.e. excl. services, etc.) in Amsterdam. She's fully employed, while I'm in a career transition since my recent physics PhD graduation from the University of Amsterdam. We have ~2x-2.5x income/rent ratio and EU guarantor with ~3-3.5x if necessary. We can move in anytime within the next 3 months.
 
 We'd welcome any recommendations, search tips, or contacts of people who could help us further. Thank you all very much!
 

@@ -16,21 +16,21 @@ Cover:
 ---
 ## Ingredients
 
-| Amount  | Name              | Prep                                             |
-| ------- | ----------------- | ------------------------------------------------ |
-| 1 large | Zucchini          | Cut into medium-thin slices                      |
-| 2 tbsp  | Olive oil         |                                                  |
-| 1 tbsp  | Anis seeds        |                                                  |
-| 1       | Quiche/Tart dough | To self-make use [[Quiche & Tart Dough (Vegan)]] |
-| 200g    | Ricotta           |                                                  |
-| 200g    | Feta              | Crumbled with fingers                            |
-| Handful | Mint leaves       | Cut in fine pieces                               |
-|         | Black pepper      | Freshly cracked, lots                            |
-| Dash    | Salt              |                                                  |
-| 40g     | Cashew nuts       | For egg replacement                              |
-| 50g     | Water             | For egg replacement                              |
-| 2 tsp   | Agar-agar powder  | For egg replacement                              |
-|         | (Lingonberry) Jam | To serve with                                    |
+| Amount  | Name              | Prep                                             |     |
+| ------- | ----------------- | ------------------------------------------------ | --- |
+| 1 large | Zucchini          | Cut into medium-thin slices                      |     |
+| 2 tbsp  | Olive oil         |                                                  |     |
+| 1 tbsp  | Anis seeds        |                                                  |     |
+| 1       | Quiche/Tart dough | To self-make use [[Quiche & Tart Dough (Vegan)]] |     |
+| 200g    | Ricotta           |                                                  |     |
+| 200g    | Feta              | Crumbled with fingers                            |     |
+| Handful | Mint leaves       | Cut in fine pieces                               |     |
+|         | Black pepper      | Freshly cracked, lots                            |     |
+| Dash    | Salt              |                                                  |     |
+| 40g     | Cashew nuts       | For egg replacement                              |     |
+| 50g     | Water             | For egg replacement                              |     |
+| 2 tsp   | Agar-agar powder  | For egg replacement                              |     |
+|         | (Lingonberry) Jam | To serve with                                    |     |
 
 ## Instructions
 

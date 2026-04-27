@@ -11,8 +11,6 @@ tags:
 Link:
 Cover:
 ---
-# Broccoli in Garlic Sauce
-
 ## Ingredients (for ~400g broccoli)
 
 **Note:** Scale ingredients accordingly if making for larger amount of broccoli.

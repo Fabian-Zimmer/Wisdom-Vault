@@ -11,8 +11,6 @@ tags:
   - Vegan
 Link: https://www.youtube.com/watch?v=yzWAfNjYJTs
 Cover:
-share_link: https://share.note.sx/s1mbl1tf
-share_updated: 2026-01-06T18:54:08+01:00
 ---
 
 ## Ingredients

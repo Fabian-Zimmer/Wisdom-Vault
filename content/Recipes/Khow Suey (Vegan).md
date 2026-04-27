@@ -45,15 +45,18 @@ Cover:
 
 ## Instructions
 
+2 large woks are necessary to split volume evenly.
+
 1. In a separate pan, pan fry the sliced tofu until golden on both sides, salt once flipped. Then set aside to cool.
 2. In a pot, stir and heat together coconut milk, water, Thai curry paste, and a spoon of peanut butter (optional) until combined.
 3. In a wok, heat sunflower oil and sauté red onions and white parts of spring onions.
 4. Add garlic, ginger, and green chillies, cooking briefly.
 5. Add carrots, baby corn, and broccoli. Cook until vegetables are tender.
 6. Add the green parts of spring onions and the pan-fried tofu cut into smaller strips or cubes.
-7. Pour in the coconut milk soup mixture and heat through.
-8. Cook noodles of choice in a separate pot.
-9. Serve the curry over noodles with desired toppings: crispy brown onions, crushed peanuts, chilli oil, lime wedges, coriander leaves, and white sprouts.
+7. Separate the vegetables into 2 woks equally now.
+8. Pour in the coconut milk soup mixture equally in both woks and heat through.
+9. Cook noodles of choice in a separate pot.
+10. Serve the curry over noodles with desired toppings: crispy brown onions, crushed peanuts, chilli oil, lime wedges, coriander leaves, and white sprouts.
 
 **Note:** The soup ratio is 
 coconut milk : water : Thai curry paste = 1L : 860ml : 280g. 
