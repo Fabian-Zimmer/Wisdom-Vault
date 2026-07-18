@@ -1,0 +1,9 @@
+All we experience is conceived in a human type cognition. That is to say, that whatever information we receive and become aware of, when we interpret and intellectualise it, we tend to base it on the experiences we have within this reality frame (Earth life). For example, our 3D spacial awareness or the usual physics-based cause-effect-cycle can heavily influence what we make of our (non-physical) experiences.
+
+An odd circular, perhaps even paradoxical (in language), consequence goes as follow? The only absolutely given is that we experience things, but we can only be guaranteed for the existence of things we experience by the very fact that we experience them. Everything else that we imagine or generate with our mental faculties, that we don't (currently) experience (e.g. something like imagining to float and fly above and across the Sun's surface, when sitting at home) we can't be guaranteed to exist. However, the very fact that we are imagining it can create (when practiced or with already present ability) qualia like warmth or nausea that we then experience, so how can we say the imagined experience didn't exist?
+
+If you're seeking and questioning long enough, eventually, the assumption that there is only the type of physical universe we experience with the human-type cognition we possess will become parochial.
+
+The culture we grow up in also heavily affects out thinking. Growing up in a Western (materialist) culture can enshrine the notion of inviolable mortality of yourself into your belief-set, where it can remain unquestioned and steer your thinking from your subconscious.
+
+Humans are a particular form of consciousness. And with that particularity comes a unique perspective and structure of ideas and beliefs. For example, the question of good and evil is evaluated by what our ideaverse has to say about it, probably heavily colored by what's good and evil for us as humans.
