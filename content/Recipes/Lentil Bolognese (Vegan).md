@@ -33,6 +33,9 @@ Cover:
 |              | Salt                  |                              |
 
 ## Instructions
+
+**Try?** Why not cellery+carrot+onion combo as base, since so many bolognese recipes have it?
+
 1. Soak red lentils (~185g) in water for 30 min. Meanwhile, prepare the vegetable broth (720ml, 1 cube), finely chop the red onion (1 large), thinly slice the garlic (4 cloves), and finely chop the walnuts (~35g).
 2. In a wok, sauté the onion with a pinch of salt in olive oil for ~10 min. Add the garlic, thyme (1 tsp), oregano (1 tsp), salt (1 tsp), and pepper (1/4 tsp).
 3. Stir in tomato paste (150g) and cook for 2-3 min.

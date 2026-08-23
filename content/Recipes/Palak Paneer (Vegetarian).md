@@ -14,7 +14,7 @@ Cover:
 ---
 ## Ingredients
 
-**Note:** Fills a whole big wok, ~6-8 portions.
+**Note:** Fills a whole big wok, ~6-8 portions (nice for 3+ people or meal prep). Take half of all ingredients for 1-2 people.
 
 | Amount           | Name                      | Prep                                                                                          |
 | ---------------- | ------------------------- | --------------------------------------------------------------------------------------------- |
@@ -43,6 +43,7 @@ Cover:
 |                  | Rice or rotis             | For serving                                                                                   |
 
 ## Instructions
+**Note:** Best served with rice or rotis.
 
 1. Prepare spinach (400g): Finely chop 2 handfuls and set aside. Blanch the rest in boiling water (in batches, using slotted spoon/ladle to lift out spinach), transfer to bowl and purée/blend.
 2. In a big wok or pot, heat olive oil (3 tbsp) and ghee (2 tbsp, optional - otherwise use +1 tbsp oil).
@@ -54,5 +55,4 @@ Cover:
 8. Add the finely chopped spinach and a good amount of water. Let cook.
 9. Add plant-based cooking cream (~200g) and the blanched and puréed spinach. Let simmer for a bit.
 10. Add a pinch of nutmeg, taste, and adjust salt if necessary.
-11. Add paneer (~800g-1kg max., softened in hot water). Let cook for a while for paneer to soak and take up flavor.
-12. Serve with rice or rotis.
+11. Add paneer (~800g-1kg max., optionally softened in hot water). Let cook for a while for paneer to soak and take up flavor.

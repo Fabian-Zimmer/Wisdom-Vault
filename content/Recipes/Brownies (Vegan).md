@@ -34,7 +34,7 @@ Cover:
 
 ## Instructions
 
-**Note:** If making double volume (e.g., for larger group) then can tale up to ~35min. in oven at same temp. 
+**Note:** If making double volume (e.g., for larger group) then can tale up to ~35min. in oven at same temp.
 
 1. Mix the flax seed powder (1 tbsp) with warm water (2.5 tbsp) and set aside.
 2. Heat water (60ml) and sugar (70g) in a pan until sugar is fully melted. Do not bring to a boil.
