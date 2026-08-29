@@ -11,7 +11,6 @@ tags:
   - Baking
   - Dessert
   - Snack
-  - To-Try
 Link:
 Cover:
 ---

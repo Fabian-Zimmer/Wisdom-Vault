@@ -13,6 +13,8 @@ tags:
 Link: https://theeburgerdude.com/vegan-cream-cheese/
 Cover:
 ---
+> [!warning] Needs high-powered blender! Cannot be done in food processor!
+
 ## Ingredients
 
 ### Base
@@ -32,8 +34,7 @@ Cover:
 
 ## Instructions
 **Notes:** 
-- Refrigerate coconut milk can overnight, so that cream part solidifies on top of can and easily scoops out. 
-- A high-speed blender makes for the creamiest result. 
+- Refrigerate coconut milk can overnight, so that cream part solidifies on top of can and easily scoops out.
 - Store in an airtight container in the fridge for up to 1 week.
 
 1. Soak cashews (1 cup) in boiling water for ~20 min., then drain. Discard the soaking water.

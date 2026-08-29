@@ -18,7 +18,7 @@ Cover:
 | Amount  | Name                    | Prep                                    |
 | ------- | ----------------------- | --------------------------------------- |
 | ~600g   | Pre-cooked udon noodles | About ~300g if using dried udon noodles |
-| 10g     | Thai basil leaves       |                                         |
+| 10g     | (Thai) basil leaves     |                                         |
 | 50g (3) | Spring onions           | Julienned                               |
 | 10g     | Coriander leaves        | Finely sliced                           |
 | 40g (2) | Red chillies            | Julienned                               |
