@@ -46,6 +46,8 @@ Cover:
 
 ## Chocolate Sweet Potato
 
+**Tastes good!**
+
 | Amount   | Name               | Prep                                      |
 | -------- | ------------------ | ----------------------------------------- |
 | 1 cup    | Plant-based milk   | E.g., almond or soy                       |
@@ -71,6 +73,7 @@ Cover:
 | 1 tsp   | Cinnamon powder         |                          |
 
 ## Blueberry Lemon
+**Omg this is so tangy...had to add 1 tsp maple syrup, still not really my taste actually...**
 
 | Amount      | Name             | Prep                                                   |
 | ----------- | ---------------- | ------------------------------------------------------ |

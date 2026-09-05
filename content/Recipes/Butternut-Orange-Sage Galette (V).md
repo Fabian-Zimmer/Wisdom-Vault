@@ -4,7 +4,7 @@ Kind:
 Complexity:
   - Intermediate
 Exertion:
-  - High
+  - Extreme
 tags:
   - Main
   - Vegetarian
@@ -43,10 +43,13 @@ Cover:
 | 125g            | Mascarpone                             |                                                        |
 |                 | Salt, flaked sea salt and black pepper |                                                        |
 ### Vegan Egg Wash
-| Amount | Name        | Prep |
-| ------ | ----------- | ---- |
-| 1 tbsp | Soy milk    |      |
-| 1 tbsp | Maple syrup |      |
+| Amount   | Name        | Prep |
+| -------- | ----------- | ---- |
+| 1/2 tbsp | Soy milk    |      |
+| 1/2 tbsp | Maple syrup |      |
+
+**Changes!!!**
+Way to sweet, remove maple + orange syrup completely. Instead, squeeze 1 orange for 
 
 ## Instructions
 **Note:** The pastry is best kept half in the freezer for future use — double the pastry recipe if you want to do this. The galette can be assembled ahead and refrigerated, then baked on the day.
@@ -54,7 +57,7 @@ Cover:
 1. Make the pastry: 
 	1. Mix all dry ingredients: plain flour (100g), whole-wheat flour (30g), polenta (20g), sugar (1.5 tsp), flaked salt (3/4 tsp), sage (1 tbsp), and pepper (1/4 tsp) in a large bowl. 
 	2. Add olive oil (20ml) and mix, only then the cold butter (80g) and incorporate by lightly squashing each cube between your fingers, leaving chunky pieces throughout. Add ice-cold water (60ml) and gather into a sticky dough. 
-	3. Transfer to a well-floured surface and roll into a 28cm x 18cm rectangle. Flour the rolling pin, surface, and pastry as you go. Fold the *longer* ends in to meet at the centre and roll out once. Fold in the *shorter* ends, roll out once more, then fold in half to form a square. 
+	3. Transfer to a well-floured surface and roll into a 28cm x 18cm rectangle. Generously flour the rolling pin, surface, and pastry as you go. Fold the *longer* ends in to meet at the centre and roll out once. Fold in the *shorter* ends, roll out once more, then fold in half to form a square. 
 	4. Shape into a 14cm-wide disc, wrap tightly in plastic-cling film, and refrigerate for 30 min.
 2. Preheat oven to 220°C fan. 
 3. Toss the squash (680g) and carrots (180g) with olive oil (2 tbsp), chopped sage (1 tbsp of the filling sage), caraway seeds (2 tsp), 1 tsp flaked salt, and plenty of pepper. Spread across two large parchment-lined trays. Drizzle the garlic head and shallot with a little oil, wrap individually in foil, and add to the trays. Roast the squash and carrots for 25 min. until golden-brown, then remove from the oven. Continue roasting the garlic and shallot for another 15 min., then set aside. Once cool enough to handle, squeeze the garlic and shallot out of their skins and finely chop. Reduce oven to 200°C fan.

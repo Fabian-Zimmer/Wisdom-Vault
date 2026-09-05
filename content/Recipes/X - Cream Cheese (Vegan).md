@@ -18,12 +18,12 @@ Cover:
 ## Ingredients
 
 ### Base
-| Amount  | Name          | Prep                                          |
-| ------- | ------------- | --------------------------------------------- |
-| 1 cup   | Raw cashews   | Soaked in boiling water 20 min., then drained |
-| 150g    | Coconut cream | (see notes and instructions below)            |
-| 1-2 tsp | Lactic acid   |                                               |
-| 1/2 tsp | Salt          | To taste                                      |
+| Amount  | Name          | Prep                                                                                                                      |
+| ------- | ------------- | ------------------------------------------------------------------------------------------------------------------------- |
+| 1 cup   | Raw cashews   | Soaked in boiling water 20 min., then drained                                                                             |
+| 150g    | Coconut cream | **Important:** Has to be the creamy top part from a good quality coconut milk can! <br>(see notes and instructions below) |
+| 1-2 tsp | Lactic acid   |                                                                                                                           |
+| 1/2 tsp | Salt          | To taste                                                                                                                  |
 
 ### Optional Mix-ins (pick one or combine)
 | Amount       | Name                  | Prep                              |
