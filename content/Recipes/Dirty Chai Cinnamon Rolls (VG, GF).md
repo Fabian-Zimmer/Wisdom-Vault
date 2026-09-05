@@ -65,7 +65,7 @@ Cover:
 ### Dough
 5. Soak rice (200g) and quinoa (100g) together for a few hours. Drain and measure the amount of absorbed water — subtract this from 270g to know how much plain water to add later (see note above).
 6. Prepare the espresso (60g) and measure out the chai concentrate (60g).
-7. Add soaked rice, soaked quinoa, espresso, chai concentrate, remaining water, coconut oil (25g), yeast (5g), beet sugar (20g), and salt (3g) to a blender. Blend until smooth.
+7. Add soaked rice, soaked quinoa, espresso, chai concentrate, remaining water, coconut oil (25g), yeast (5g), sugar (20g), and salt (3g) to a blender. Blend until smooth.
    (ideally something more powerful than a staff mixer, otherwise dough won't form well)
 8. Transfer to a bowl, add psyllium husk powder (20g), and mix well. 
 9. Leave to rise until doubled in size.

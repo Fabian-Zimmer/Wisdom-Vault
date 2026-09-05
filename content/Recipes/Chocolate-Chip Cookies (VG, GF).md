@@ -10,6 +10,7 @@ tags:
   - Gluten-Free
   - Baking
   - Dessert
+  - FoodProcessor
 Link:
 Cover:
 ---
@@ -36,7 +37,7 @@ Cover:
 - Scale ingredients towards the higher end if your can is closer to 265g.
 
 1. Soak dates (90-100g) in warm water for ~10 min., then drain.
-2. Add chickpeas or white beans (235-265g), soaked dates (90-100g), plant-based milk (40-45g), vanilla extract (1 tsp), almond butter (1/3 cup), oat flour (40-45g), cinnamon if using (1/4 tsp), baking soda (1/2 tsp), baking powder (1/2 tsp), and salt (1/4 tsp) to the food processor (large bowl and knife blade). 
+2. Add chickpeas or white beans (235-265g), soaked dates (90-100g), plant-based milk (40-45g), vanilla extract (1 tsp), almond butter (1/3 cup), oat flour (40-45g), cinnamon if using (1/4 tsp), baking soda (1/2 tsp), baking powder (1/2 tsp), and salt (1/4 tsp) to a food processor (large bowl and knife blade).
 	- If making double chocolate version, also add cocoa powder (~4 tbsp).
 3. Process until completely smooth, scraping down the sides as needed.
 4. Transfer to a bowl and fold in chopped chocolate (~60g) by hand.

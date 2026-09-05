@@ -8,7 +8,7 @@ Exertion:
 tags:
   - Main
   - Vegetarian
-  - To-Try
+  - To-Change
 Link:
 Cover:
 ---
@@ -49,7 +49,7 @@ Cover:
 | 1/2 tbsp | Maple syrup |      |
 
 **Changes!!!**
-Way to sweet, remove maple + orange syrup completely. Instead, squeeze 1 orange for 
+Way to sweet, remove maple + orange syrup completely. Instead, zest and squeeze 1 orange to just drizzle over before in oven. Before placing wet ingredients on dough, form moisture absorbent layer with sprinkling almond flour; also activate fan + bottom heat! Tip from online is also to increase baking time, even when rim looks golden brown, keep baking for 10+ min. more. Also, increase dough volume by ~25% (not the butter though, that was too much for this amount of dough), because it was just too stuffed and full. With more dough we can then spread as large rectangle across whole baking sheet, and vegetables can then be in the range of some gram instead of precise amount (which is hard to target as each butternut squash and carrot is differently sized). Banana shallot can also be a half yellow/white onion, worked well too. Instead if caraway we did 75% jeera seeds and 25% ajwain seeds. 
 
 ## Instructions
 **Note:** The pastry is best kept half in the freezer for future use — double the pastry recipe if you want to do this. The galette can be assembled ahead and refrigerated, then baked on the day.
